@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harvey! Welcome to my GitHub</h1>
-<p align='center'><img src='https://media.giphy.com/media/FK7SApPalOuc6qvCtq/giphy.gif' width='60%'></p>
+
+![Harvey Samuel](https://user-images.githubusercontent.com/96807396/169325708-69c968a2-7a00-4c58-b343-739be79f041d.gif)
+
+
 
 <h3 align="center">I'm an enthusiastic Software Engineer from Columbia, SC</h3>
 
