@@ -4,15 +4,10 @@
 
 
 
-<h3 align="center">I'm an enthusiastic Software Engineer from Columbia, SC</h3>
-
-- 🔭 I’m currently working on **Which Pokemon Are You?**
-- 🌱 I’m currently learning **Angular and Vue**
-- 👯 I’m looking to collaborate on **a One Piece API**
-- 👨‍💻 All of my projects are available at [abeardeddev.me](abeardeddev.me)
-- 💬 Ask me about **React, VanillaJS, Node**
-- 📫 How to reach me **hlsamuel00@gmail.com**
-- ⚡ Fun fact **I love, Love, LOVE to cook!!**
+<h3 align="center">A Little About Me</h3>
+<p>
+I’m a community-taught software engineer with 9 years of experience working for a financial institution, researching complex and high-risk, issues. My love for problem-solving runs deep! I capitalized on this with several opportunities, but I noticed the solution I was giving was “built” by someone else. As a community-taught software engineer, I not only get to solve problems, but I BUILD solutions!! I love learning new things, and there is NO BETTER FIELD than tech to exploit this. I’m currently building my solutions with React.js, Vanilla JS, and Express.js; I'm also completing authentication with Passport.js. Connect with me so we can chat!!
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -20,7 +15,47 @@
 <a href="https://linkedin.com/in/harveysamuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harveysamuel" height="30" width="40" /></a>
 </p>
 
+<h2 align="center">What I've Been Working On</h2>
+<table bordercolor="#0dbbb6">
+  <tr>
+    <td width="50%" valign="top"
+      <h2 align="center">Happy Notes</h2>
+      <br />
+      <a target="_blank" href="https://happy-notes-app.herokuapp.com/">
+        <img src="https://user-images.githubusercontent.com/96807396/188922327-3db325e3-c073-4fc2-a576-84589c7eabf5.PNG" width="100%">
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="10%">
+        &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp
+        <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=heroku&message=Website&style=social" height="10%">
+      </p>
+      <p align="center">
+        <strong>Javascript, EJS, Materialize CSS, Express.js, & Passport.js</strong> - A flashcard app that arranges users' cards in decks to learn and study new concepts.
+      </p>
+    </td>
+    <td width="50%" valign="top"
+      <h2 align="center">U-Narrate</h2>
+      <br />
+      <img src="https://user-images.githubusercontent.com/96807396/188922484-7d4d09b7-b769-46c1-9588-04de49c75330.PNG" width="100%">
+       <p align="center"><img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="10%"></p>
+       <p align="center">:construction: Website Coming Soon! :construction:</p>
+       <p align="center">
+        <strong>Javascript, HandleBars, Materialize CSS, Express.js, & Passport.js</strong> - A blog app that allows users to create, delete, and update private and public stories. Users can also view other users' public stories.
+      </p>
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/> </a></p>
+<p align="center"> 
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=CSS3&message=CSS" alt="css3" height="25"/> 
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=HTML5&message=HTML" alt="html5" height="25"/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=javascript&message=Javascript" alt="javascript" height="25"/> 
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=react&message=React" alt="react" height="25"/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=nodedotjs&message=Express.js" alt="express" height="25"/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=nodedotjs&message=Node" alt="nodejs" height="25"/> 
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=mongodb&message=MongoDB" alt="mongodb" height="25"/> 
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=passport&message=Passport.js" alt="passport" height="25"/>
+</p>
 
 <p align="center"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=hlsamuel00&show_icons=true&theme=gotham&locale=en&layout=compact" alt="hlsamuel00" /><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=hlsamuel00&theme=gotham" alt="hlsamuel00" /></p>
