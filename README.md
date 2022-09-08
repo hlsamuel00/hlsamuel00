@@ -26,11 +26,11 @@ I’m a community-taught software engineer with 9 years of experience working fo
       </a>
       <p align="center">
         <a href="https://github.com/hlsamuel00/happy-notes">
-          <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="10%">
+          <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="22.5">
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp
         <a href="https://happy-notes-app.herokuapp.com/">
-          <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=heroku&message=Website&style=social" height="10%">
+          <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=heroku&message=Website&style=social" height="22.5">
         </a>
       </p>
       <p align="center">
@@ -43,7 +43,7 @@ I’m a community-taught software engineer with 9 years of experience working fo
       <img src="https://user-images.githubusercontent.com/96807396/188922484-7d4d09b7-b769-46c1-9588-04de49c75330.PNG" width="100%">
        <p align="center">
           <a href="https://github.com/hlsamuel00/u-narrate">
-            <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="10%">
+            <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="22.5">
           </a>
        </p>
        <p align="center">:construction: Website Coming Soon! :construction:</p>
@@ -66,4 +66,5 @@ I’m a community-taught software engineer with 9 years of experience working fo
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=passport&message=Passport.js" alt="passport" height="25"/>
 </p>
 
-<p align="center"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=hlsamuel00&show_icons=true&theme=gotham&locale=en&layout=compact" alt="hlsamuel00" /><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=hlsamuel00&theme=gotham" alt="hlsamuel00" /></p>
+<p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hlsamuel00&show_icons=true&theme=gotham&locale=en&layout=compact" alt="hlsamuel00" /></p>
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hlsamuel00&theme=gotham" alt="hlsamuel00" /></p>
