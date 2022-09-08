@@ -6,7 +6,7 @@
 
 <h3 align="center">A Little About Me</h3>
 <p>
-I’m a community-taught software engineer with 9 years of experience working for a financial institution, researching complex and high-risk, issues. My love for problem-solving runs deep! I capitalized on this with several opportunities, but I noticed the solution I was giving was “built” by someone else. As a community-taught software engineer, I not only get to solve problems, but I BUILD solutions!! I love learning new things, and there is NO BETTER FIELD than tech to exploit this. I’m currently building my solutions with React.js, Vanilla JS, and Express.js; I'm also completing authentication with Passport.js. Connect with me so we can chat!!
+I’m a community-taught software engineer with 9 years of experience working for a financial institution, researching complex and high-risk, issues. My love for problem-solving runs deep! I capitalized on this with several opportunities, but I noticed the solution I was giving was “built” by someone else. As a developer, I not only get to solve problems, but I BUILD solutions!! I love learning new things, and there is NO BETTER FIELD than tech to exploit this. I’m currently building my solutions with React.js, Vanilla JS, and Express.js; I'm also completing authentication with Passport.js. Connect with me so we can chat!!
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -28,7 +28,7 @@ I’m a community-taught software engineer with 9 years of experience working fo
         <a href="https://github.com/hlsamuel00/happy-notes">
           <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="22.5">
         </a>
-        &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://happy-notes-app.herokuapp.com/">
           <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=heroku&message=Website&style=social" height="22.5">
         </a>
