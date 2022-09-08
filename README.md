@@ -25,9 +25,13 @@ I’m a community-taught software engineer with 9 years of experience working fo
         <img src="https://user-images.githubusercontent.com/96807396/188922327-3db325e3-c073-4fc2-a576-84589c7eabf5.PNG" width="100%">
       </a>
       <p align="center">
-        <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="10%">
+        <a href="https://github.com/hlsamuel00/happy-notes">
+          <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="10%">
+        </a>
         &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp
-        <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=heroku&message=Website&style=social" height="10%">
+        <a href="https://happy-notes-app.herokuapp.com/">
+          <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=heroku&message=Website&style=social" height="10%">
+        </a>
       </p>
       <p align="center">
         <strong>Javascript, EJS, Materialize CSS, Express.js, & Passport.js</strong> - A flashcard app that arranges users' cards in decks to learn and study new concepts.
@@ -37,7 +41,11 @@ I’m a community-taught software engineer with 9 years of experience working fo
       <h2 align="center">U-Narrate</h2>
       <br />
       <img src="https://user-images.githubusercontent.com/96807396/188922484-7d4d09b7-b769-46c1-9588-04de49c75330.PNG" width="100%">
-       <p align="center"><img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="10%"></p>
+       <p align="center">
+          <a href="https://github.com/hlsamuel00/u-narrate">
+            <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="10%">
+          </a>
+       </p>
        <p align="center">:construction: Website Coming Soon! :construction:</p>
        <p align="center">
         <strong>Javascript, HandleBars, Materialize CSS, Express.js, & Passport.js</strong> - A blog app that allows users to create, delete, and update private and public stories. Users can also view other users' public stories.
