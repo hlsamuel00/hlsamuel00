@@ -21,7 +21,7 @@ I’m a community-taught software engineer with 9 years of experience working fo
     <td width="50%" valign="top"
       <h2 align="center">Happy Notes</h2>
       <br />
-      <a target="_blank" href="https://happy-notes-app.herokuapp.com/">
+      <a target="_blank" href="https://happy-notes.up.railway.app/">
         <img src="https://user-images.githubusercontent.com/96807396/188922327-3db325e3-c073-4fc2-a576-84589c7eabf5.PNG" width="100%">
       </a>
       <p align="center">
