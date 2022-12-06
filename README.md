@@ -64,6 +64,9 @@ I’m a community-taught software engineer with 9 years of experience working fo
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=nodedotjs&message=Node" alt="nodejs" height="25"/> 
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=mongodb&message=MongoDB" alt="mongodb" height="25"/> 
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=passport&message=Passport.js" alt="passport" height="25"/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=python&message=Python" alt="python" height=25/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=SQLite&message=SQLite" alt="sqlite" height=25/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=tensorflow&message=TensorFlow" alt="tensorflow" height=25/>
 </p>
 
 <p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hlsamuel00&show_icons=true&theme=gotham&locale=en&layout=compact" alt="hlsamuel00" /></p>
