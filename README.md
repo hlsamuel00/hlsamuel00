@@ -29,7 +29,7 @@ I’m a community-taught software engineer with 9 years of experience working fo
           <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="22.5">
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://happy-notes-app.herokuapp.com/">
+        <a href="https://happy-notes.up.railway.app/">
           <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=heroku&message=Website&style=social" height="22.5">
         </a>
       </p>
