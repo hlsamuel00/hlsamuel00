@@ -6,7 +6,7 @@
 
 <h3 align="center">A Little About Me</h3>
 <p>
-I’m a community-taught software engineer with 9 years of experience working for a financial institution, researching complex and high-risk, issues. My love for problem-solving runs deep! I capitalized on this with several opportunities, but I noticed the solution I was giving was “built” by someone else. As a developer, I not only get to solve problems, but I BUILD solutions!! I love learning new things, and there is NO BETTER FIELD than tech to exploit this. I’m currently building my solutions with React.js, Vanilla JS, and Express.js; I'm also completing authentication with Passport.js. Connect with me so we can chat!!
+I’m a community-taught software engineer with 9 years of experience working for a financial institution, researching complex and high-risk, issues. My love for problem-solving runs deep! I capitalized on this with several opportunities, but I noticed the solution I was giving was “built” by someone else. As a developer, I not only get to solve problems, but I BUILD solutions!! I love learning new things, and there is NO BETTER FIELD than tech to exploit this. I’m currently building my solutions with Python, React.js, Vanilla JS, and Express.js; I'm also completing authentication with Passport.js. Connect with me so we can chat!!
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -58,13 +58,13 @@ I’m a community-taught software engineer with 9 years of experience working fo
 <p align="center"> 
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=CSS3&message=CSS" alt="css3" height="25"/> 
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=HTML5&message=HTML" alt="html5" height="25"/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=python&message=Python" alt="python" height=25/>
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=javascript&message=Javascript" alt="javascript" height="25"/> 
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=react&message=React" alt="react" height="25"/>
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=nodedotjs&message=Express.js" alt="express" height="25"/>
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=nodedotjs&message=Node" alt="nodejs" height="25"/> 
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=mongodb&message=MongoDB" alt="mongodb" height="25"/> 
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=passport&message=Passport.js" alt="passport" height="25"/>
-  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=python&message=Python" alt="python" height=25/>
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=SQLite&message=SQLite" alt="sqlite" height=25/>
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=tensorflow&message=TensorFlow" alt="tensorflow" height=25/>
 </p>
