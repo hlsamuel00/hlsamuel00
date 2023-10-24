@@ -6,7 +6,13 @@
 
 <h3 align="center">A Little About Me</h3>
 <p>
-I’m a community-taught software engineer with 9 years of experience working for a financial institution, researching complex and high-risk, issues. My love for problem-solving runs deep! I capitalized on this with several opportunities, but I noticed the solution I was giving was “built” by someone else. As a developer, I not only get to solve problems, but I BUILD solutions!! I love learning new things, and there is NO BETTER FIELD than tech to exploit this. I’m currently building my solutions with Python, React.js, Vanilla JS, and Express.js; I'm also completing authentication with Passport.js. Connect with me so we can chat!!
+  I'm Harvey Samuel, a community-taught software engineer with a strong foundation in full-stack web development and a passion for problem-solving. My journey began with an intensive program at 100Devs Agency, followed by earning a JavaScript certification from freeCodeCamp. What sets me apart is my dedication to learning and embracing mistakes as valuable lessons.
+  
+  My experience at Wells Fargo's research department honed my analytical skills, leading me to coding. Today, I excel in Python, particularly in API development and data structures, and I'm also well-versed in JavaScript for web development.
+  
+  I'm driven by the goal of becoming a proficient senior within the next two years, guided by a continuous learning mindset. I thrive in collaborative team environments and relish innovation challenges. Most importantly, I'm excited to make a real impact by crafting solutions that help people overcome their challenges, no matter how big or small.
+  
+  Let's connect to explore how my skills and passion can contribute to your team's success.
 </p>
 
 <h3 align="center">Connect with me:</h3>
