@@ -24,7 +24,7 @@
 <h2 align="center">What I've Been Working On</h2>
 <table bordercolor="#0dbbb6">
   <tr>
-    <td width="50%" valign="top"
+    <td width='50%' valign="top">
       <h2 align="center">Happy Notes</h2>
       <br />
       <a target="_blank" href="https://happy-notes.up.railway.app/">
@@ -43,7 +43,7 @@
         <strong>Javascript, EJS, Materialize CSS, Express.js, & Passport.js</strong> - A flashcard app that arranges users' cards in decks to learn and study new concepts.
       </p>
     </td>
-    <td width="50%" valign="top"
+    <td width='50%' valign="top">
       <h2 align="center">U-Narrate</h2>
       <br />
       <img src="https://user-images.githubusercontent.com/96807396/188922484-7d4d09b7-b769-46c1-9588-04de49c75330.PNG" width="100%">
@@ -55,6 +55,21 @@
        <p align="center">:construction: Website Coming Soon! :construction:</p>
        <p align="center">
         <strong>Javascript, HandleBars, Materialize CSS, Express.js, & Passport.js</strong> - A blog app that allows users to create, delete, and update private and public stories. Users can also view other users' public stories.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan='2' valign='top'>
+      <h2 align='center'>Leet Code Core</h2>
+      <br />
+      <a>
+        <img>
+      </a>
+      <p align='center'>
+        🚧 More Coming Soon. 🚧
+      </p>
+      <p align="center">
+        <strong>Python, Data Structures, Algorithms, Problem-Solving, and Reflection</strong> - A series of LeetCode solutions completed with my LeetCode self-evaluation. I record myself completing LeetCode problems, rewatch the recordings, and determine areas of improvement and areas of strength. 
       </p>
     </td>
   </tr>
@@ -76,4 +91,3 @@
 </p>
 
 <p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hlsamuel00&show_icons=true&theme=gotham&locale=en&layout=compact" alt="hlsamuel00" /></p>
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hlsamuel00&theme=gotham" alt="hlsamuel00" /></p>
