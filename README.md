@@ -77,20 +77,20 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=python&message=Python" alt="python" height=30/>
-  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=javascript&message=Javascript" alt="javascript" height="30"/> 
-  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=react&message=React" alt="react" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=CSS3&message=CSS" alt="css3" height="30"/> 
-  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=HTML5&message=HTML" alt="html5" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=nodedotjs&message=Express.js" alt="express" height="30"/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=python&message=Python" alt="python" height='27.5'/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=javascript&message=Javascript" alt="javascript" height="27.5"/> 
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=react&message=React" alt="react" height="27.5"/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=CSS3&message=CSS" alt="css3" height="27.5"/> 
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=HTML5&message=HTML" alt="html5" height="27.5"/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=nodedotjs&message=Express.js" alt="express" height="27.5"/>
 </p>
 <p align="center"> 
-  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=nodedotjs&message=Node" alt="nodejs" height="30"/> 
-  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=mongodb&message=MongoDB" alt="mongodb" height="30"/> 
-  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=passport&message=Passport.js" alt="passport" height="30"/>
-  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=SQLite&message=SQLite" alt="sqlite" height='30'/>
-  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=tensorflow&message=TensorFlow" alt="tensorflow" height='30'/>
-  <img src='https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=amazondynamodb&message=DynamoDB' alt='dynamodb' height='30'/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=nodedotjs&message=Node" alt="nodejs" height="27.5"/> 
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=mongodb&message=MongoDB" alt="mongodb" height="27.5"/> 
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=passport&message=Passport.js" alt="passport" height="27.5"/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=SQLite&message=SQLite" alt="sqlite" height='27.5'/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=tensorflow&message=TensorFlow" alt="tensorflow" height='27.5'/>
+  <img src='https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=amazondynamodb&message=DynamoDB' alt='dynamodb' height='27.5'/>
 </p>
 
 <p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hlsamuel00&show_icons=true&theme=gotham&locale=en&layout=compact" alt="hlsamuel00" /></p>
