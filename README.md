@@ -24,7 +24,7 @@
 <h2 align="center">What I've Been Working On</h2>
 <table bordercolor="#0dbbb6">
   <tr>
-    <td width='50%' valign="top">
+    <td width='33.3333%' valign="top">
       <h2 align="center">Happy Notes</h2>
       <br />
       <a target="_blank" href="https://happy-notes.up.railway.app/">
@@ -40,10 +40,10 @@
         </a>
       </p>
       <p align="center">
-        <strong>Javascript, EJS, Materialize CSS, Express.js, & Passport.js</strong> - A flashcard app that arranges users' cards in decks to learn and study new concepts.
+        <strong>Javascript, EJS, Materialize CSS, Express.js, & Passport.js</strong> - A flashcard app that arranges users' cards in decks to learn and study new concepts. This project was modeled after the Anki card system.
       </p>
     </td>
-    <td width='50%' valign="top">
+    <td width='33.3333%' valign="top">
       <h2 align="center">U-Narrate</h2>
       <br />
       <img src="https://user-images.githubusercontent.com/96807396/188922484-7d4d09b7-b769-46c1-9588-04de49c75330.PNG" width="100%">
@@ -57,19 +57,19 @@
         <strong>Javascript, HandleBars, Materialize CSS, Express.js, & Passport.js</strong> - A blog app that allows users to create, delete, and update private and public stories. Users can also view other users' public stories.
       </p>
     </td>
-  </tr>
-  <tr>
-    <td colspan='2' valign='top'>
+   <td width='33.3333%' valign='top'>
       <h2 align='center'>Leet Code Core</h2>
       <br />
-      <a>
-        <img>
-      </a>
-      <p align='center'>
-        🚧 More Coming Soon. 🚧
+      <p align='center'> 
+        <a href='https://github.com/hlsamuel00/LeetCode-Core.git' target='_blank'> 
+          <img src='https://github.com/hlsamuel00/hlsamuel00/assets/96807396/6e07749e-4dd8-4d45-9b84-e61b2d98f744' width='100%'> 
+        </a>
+        <a href="https://github.com/hlsamuel00/LeetCode-Core.git" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="22.5">
+        </a>
       </p>
       <p align="center">
-        <strong>Python, Data Structures, Algorithms, Problem-Solving, and Reflection</strong> - A series of LeetCode solutions completed with my LeetCode self-evaluation. I record myself completing LeetCode problems, rewatch the recordings, and determine areas of improvement and areas of strength. 
+        <strong>Python, Data Structures, Algorithms, Problem-Solving, and Reflection</strong> - A series of LeetCode solutions completed and paired with a Loom-recorded self-evaluation to highlight strenthgs and outline areas of opportunity. 
       </p>
     </td>
   </tr>
