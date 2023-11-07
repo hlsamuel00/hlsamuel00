@@ -51,8 +51,9 @@
           <a href="https://github.com/hlsamuel00/u-narrate">
             <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="22.5">
           </a>
+         <br>
+          :construction: Website Coming Soon! :construction:
        </p>
-       <p align="center">:construction: Website Coming Soon! :construction:</p>
        <p align="center">
         <strong>Javascript, HandleBars, Materialize CSS, Express.js, & Passport.js</strong> - A blog app that allows users to create, delete, and update private and public stories. Users can also view other users' public stories.
       </p>
