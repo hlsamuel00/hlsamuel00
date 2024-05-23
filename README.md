@@ -24,7 +24,22 @@
 <h2 align="center">What I've Been Working On</h2>
 <table bordercolor="#0dbbb6">
   <tr>
-       <td width='33.3333%' valign='top'>
+    <td width='50%' valign='top'>
+      <h2 align='center'>Weather Service API</h2>
+      <br />
+      <p align='center'> 
+        <a href='https://github.com/hlsamuel00/weatherServiceAPI.git' target='_blank'> 
+          <img src='https://github.com/hlsamuel00/hlsamuel00/assets/96807396/1ca0f884-2482-4895-aa6b-136cb9972efd' width='100%'> 
+        </a>
+        <a href='https://github.com/hlsamuel00/weatherServiceAPI.git' target="_blank">
+          <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="22.5">
+        </a>
+      </p>
+      <p align="center">
+        <strong>Typescript, Node, Express, & Jest</strong> - An HTTP server that provides the current weather condition in a particular area. It will provide a weather condition (snow, rain, clouds, etc.), whether it is hot, cold, or moderate outside (hot > 85, cold < 60, and moderate between 60 and 85), and whether there are any weather alerts in the area. 
+      </p>
+    </td>
+    <td width='50%' valign='top'>
       <h2 align='center'>Leet Code Core</h2>
       <br />
       <p align='center'> 
@@ -36,10 +51,12 @@
         </a>
       </p>
       <p align="center">
-        <strong>Python, Data Structures, Algorithms, Problem-Solving, and Reflection</strong> - A series of LeetCode solutions completed and paired with a Loom-recorded self-evaluation to highlight strengths and outline areas of opportunity. 
+        <strong>Python, Data Structures, Algorithms, Problem-Solving, & Reflection</strong> - A series of LeetCode solutions completed and paired with a Loom-recorded self-evaluation to highlight strengths and outline areas of opportunity. 
       </p>
     </td>
-    <td width='33.3333%' valign="top">
+  </tr>
+  <tr>
+    <td width='50%' valign="top">
       <h2 align="center">Happy Notes</h2>
       <br />
       <a target="_blank" href="https://happy-notes.up.railway.app/">
@@ -58,20 +75,20 @@
         <strong>Javascript, EJS, Materialize CSS, Express.js, & Passport.js</strong> - A flashcard app that arranges users' cards in decks to learn and study new concepts. This project was modeled after the Anki card system.
       </p>
     </td>
-    <td width='33.3333%' valign="top">
-      <h2 align="center">U-Narrate</h2>
-      <br />
-      <img src="https://user-images.githubusercontent.com/96807396/188922484-7d4d09b7-b769-46c1-9588-04de49c75330.PNG" width="100%">
-       <p align="center">
+    <td width='50%' valign="top">
+        <h2 align="center">U-Narrate</h2>
+        <br />
+        <img src="https://user-images.githubusercontent.com/96807396/188922484-7d4d09b7-b769-46c1-9588-04de49c75330.PNG" width="100%">
+        <p align="center">
           <a href="https://github.com/hlsamuel00/u-narrate">
             <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="22.5">
           </a>
-         <br>
+          <br>
           :construction: Website Coming Soon! :construction:
-       </p>
-       <p align="center">
-        <strong>Javascript, HandleBars, Materialize CSS, Express.js, & Passport.js</strong> - A blog app that allows users to create, delete, and update private and public stories. Users can also view other users' public stories.
-      </p>
+        </p>
+        <p align="center">
+          <strong>Javascript, HandleBars, Materialize CSS, Express.js, & Passport.js</strong> - A blog app that allows users to create, delete, and update private and public stories. Users can also view other users' public stories.
+        </p>
     </td>
   </tr>
 </table>
@@ -79,6 +96,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=python&message=Python" alt="python" height='27.5'/>
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=typescript&message=Typescript" alt="typescript" height="27.5"/> 
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=javascript&message=Javascript" alt="javascript" height="27.5"/> 
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=react&message=React" alt="react" height="27.5"/>
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=CSS3&message=CSS" alt="css3" height="27.5"/> 
@@ -87,6 +105,7 @@
 </p>
 <p align="center"> 
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=nodedotjs&message=Node" alt="nodejs" height="27.5"/> 
+  <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=jest&message=Jest" alt="jest" height="27.5"/> 
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=mongodb&message=MongoDB" alt="mongodb" height="27.5"/> 
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=passport&message=Passport.js" alt="passport" height="27.5"/>
   <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&labelColor=6f6f6f&color=0dbbb6&logo=SQLite&message=SQLite" alt="sqlite" height='27.5'/>
