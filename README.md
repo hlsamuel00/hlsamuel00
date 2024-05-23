@@ -28,11 +28,11 @@
       <h2 align='center'>Weather Service API</h2>
       <br />
       <p align='center'> 
-        <a href='https://github.com/hlsamuel00/weatherServiceAPI.git' target='_blank'> 
-          <img src='https://github.com/hlsamuel00/hlsamuel00/assets/96807396/1ca0f884-2482-4895-aa6b-136cb9972efd' width='100%'> 
+        <a href='https://github.com/hlsamuel00/weatherServiceAPI.git' target='_blank'>
+          <img src='https://github.com/hlsamuel00/hlsamuel00/assets/96807396/ce8bc19f-c8d0-468a-9b59-5a453152aca8' width='100%'> 
         </a>
         <a href='https://github.com/hlsamuel00/weatherServiceAPI.git' target="_blank">
-          <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="22.5">
+          <img src="https://img.shields.io/static/v1?label=&logoColor=0dbbb6&color=0dbbb6&logo=github&message=Code&style=social" height="22.5">          
         </a>
       </p>
       <p align="center">
